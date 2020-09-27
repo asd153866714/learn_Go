@@ -1,3 +1,3 @@
 # Learn_GO
 
-* ©x¤èºô¯¸±Ð¾Ç -- https://tour.golang.org/list
+* å®˜æ–¹ç¶²ç«™æ•™å­¸ -- https://tour.golang.org/list
